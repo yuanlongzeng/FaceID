@@ -1,0 +1,8 @@
+key
+db.sqlite3
+*.pyc
+*.iml
+
+.idea
+__pycache__
+migrations
